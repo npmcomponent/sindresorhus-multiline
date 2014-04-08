@@ -1,5 +1,5 @@
 'use strict';
-var stripIndent = require('strip-indent');
+// commented out by npm-component: var stripIndent = require('strip-indent');
 
 // start matching after: comment start block => ! or @preserve => optional whitespace => newline
 // stop matching before: last newline => optional whitespace => comment end block
